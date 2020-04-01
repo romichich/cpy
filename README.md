@@ -1,3 +1,2 @@
 # cpy
-Course: Python
-Вариант 2
+Course: Python (Вариант 2)
